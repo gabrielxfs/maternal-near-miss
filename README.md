@@ -9,11 +9,12 @@ This research project was part of the Grand Challenges Explorations (GCE) progra
 - Specific objectives related to this repository: to create a maternal health surveillance dashboard using indicators from different information systems available in Brazil.
 
 ## Sponsored
-This research was funded by the Bill & Melinda Gates Foundation and the National Council for Scientific and Technological Development (CNPq). 
+This research was funded by the Bill & Melinda Gates Foundation and the National Council for Scientific and Technological Development (CNPq).
+The execution of the research was of accountability of the Evandro Chagas Clinical Research Institute (IPEC/FIOCRUZ). 
 
 ## Byproducts
 - [Surveillance Dashboard](https://observatorioobstetrico.shinyapps.io/painel-vigilancia-saude-materna/) build by the OOBr (Brazilian Obstetric Observatory).
-- Final Project of Bachelor Degree in Computer Science at Federal University of Rio de Janeiro
+- Final Project of the Bachelor Degree in Computer Science at Federal University of Rio de Janeiro (in construction)
 - Paper (in construction)
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
