@@ -12,7 +12,7 @@ This research project was part of the Grand Challenges Explorations (GCE) progra
 This research was funded by the Bill & Melinda Gates Foundation and the National Council for Scientific and Technological Development (CNPq).
 The execution of the research was of accountability of the Evandro Chagas Clinical Research Institute (IPEC/FIOCRUZ). 
 
-## Byproducts
+## Aftermath
 - [Surveillance Dashboard](https://observatorioobstetrico.shinyapps.io/painel-vigilancia-saude-materna/) build by the OOBr (Brazilian Obstetric Observatory).
 - Final Project of the Bachelor Degree in Computer Science at Federal University of Rio de Janeiro (in construction)
 - Paper (in construction)
