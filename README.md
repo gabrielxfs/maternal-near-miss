@@ -14,8 +14,7 @@ The execution of the research was of accountability of the Evandro Chagas Clinic
 
 ## Results
 - [Surveillance Dashboard](https://observatorioobstetrico.shinyapps.io/painel-vigilancia-saude-materna/) build by the OOBr (Brazilian Obstetric Observatory).
-- Final Project of the Bachelor Degree in Computer Science at Federal University of Rio de Janeiro (in construction)
-- Paper (in construction)
+- [Final Project](http://hdl.handle.net/11422/25389) of the Bachelor Degree in Computer Science at Federal University of Rio de Janeiro
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
